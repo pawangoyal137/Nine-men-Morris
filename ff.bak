@@ -1,0 +1,4 @@
+#lang racket
+(require 2htdp/universe)
+(require "2player.rkt")
+(launch-many-worlds/proc p)
