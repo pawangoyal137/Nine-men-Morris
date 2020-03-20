@@ -1,1 +1,0 @@
-("7.1" ("d00579c2dc90b9af3cb27156d0f45dad953cdfa2" . "67e2a87e0fe642d8dbd9e5d9b727d63729f3b68d") #"E:\\Data\\IITB\\CS 152\\cs152project\\board.rkt" #"E:\\Data\\IITB\\CS 152\\cs152project\\list-comprehension.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"wxme" #"read.rkt"))
